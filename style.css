@@ -198,13 +198,13 @@ audio::-webkit-media-controls-current-time-display {
 }
 
 .boton1 {
-    border: 1px solid var(--color-secundario);
-    background-color: var(--color-se);
+    border: 1px solid var(--color-principal);
+    background-color: var(--color-secundario);
     color: var(--color-principal);
     padding: 10px 30PX;
     text-decoration: none;
     font-size: 1.2em;
-    font-family: var(--font-principal);
+    font-family: var(--font-secundaria);
     border-radius: 50px;
 
 
