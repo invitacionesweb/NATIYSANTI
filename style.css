@@ -650,7 +650,7 @@ footer img {
 
     .ubicacion {
         flex-direction: column;
-        padding: 60px 0;
+        padding: 0px 0 60px 0;
     }
     .frenteflores {
         width: 100%;
@@ -667,7 +667,12 @@ footer img {
         max-width: 96vw;
     }
     .lovestorybox{
-        margin: 20px 10px;
+        margin: 0px 10px;
+        
+
+    }
+    .lovestorybox p {
+        line-height: 1.4;
     }
         .galeria1 {
             width: 100%;
